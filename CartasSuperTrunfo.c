@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-/* Remove o ENTER lido pelo fgets */
+
 void limparEnter(char *str) {
     int i = 0;
     while (str[i] != '\0') {
